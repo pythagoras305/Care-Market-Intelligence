@@ -1,0 +1,11 @@
+feature,importance
+chd_prev,0.2582293615215586
+diabetes_prev,0.20233741175359596
+poor_physical_health_prev,0.16620664576051578
+disability_share,0.11374504253285693
+senior_share,0.08657325357387949
+copd_prev,0.07418589261811137
+median_income,0.0499066183768834
+healthcare_support_per_1k_seniors,0.035469689486449706
+living_alone_65_share,0.013346084376148783
+healthcare_support_wage,0.0

@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local project runtime artifacts
+.venv-local/
+.uv-cache/
+.uv-python/
+.streamlit/
