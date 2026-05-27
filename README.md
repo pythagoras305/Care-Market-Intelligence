@@ -4,7 +4,7 @@ Portfolio data science project for identifying U.S. counties with elevated elder
 
 ## Why This Project
 
-CareYaya's internship description emphasizes public-health analytics, data cleaning, SQL/database work, visualization, machine learning, and clear stakeholder recommendations. This project is designed to demonstrate that full workflow in a healthcare-adjacent business context:
+
 
 - Combine demographic, health, and workforce signals into county-level features.
 - Build an interpretable care-demand and access-gap score.
